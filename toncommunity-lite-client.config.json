@@ -1,22 +1,46 @@
 {
-    "liteservers": [
-        {
-            "ip":1992173407,
-            "id": {
-                "@type": "pub.ed25519",
-                "key": "qaHEsnyxUqld4t1ez94ECSvVdbZ8FBnXcOd2OJoAn9U="
-            },
-            "port": "53762"
-        }
-    ],
-    "validator": {
-        "@type": "validator.config.global",
-        "zero_state": {
-            "workchain": -1,
-            "shard": -9223372036854775808,
-            "seqno": 0,
-            "root_hash": "sKOoLuTF+1HU/eJ4zORsR9NehOrpInbn4j5XdpXwP5M=",
-            "file_hash": "9P0TuVjDyDA8od6t5oJFGNx0fl7aaaRsVeVt1Nu3cc4="
-        }
+  "liteservers": [
+    {
+      "ip": 795459766, 
+      "id": {
+        "@type": "pub.ed25519", 
+        "key": "5R0wv44h6lPWQP5VNn8urVG1yNGJ1AflJfvvwmUORyM="
+      }, 
+      "port": "53762"
+    },
+    {
+      "ip": 795367252, 
+      "id": {
+        "@type": "pub.ed25519", 
+        "key": "VUyUvmOe7AOLR8Bg6GfuMwwto1cg/t6oqjLFFJpmo5g="
+      }, 
+      "port": "53762"
+    },
+    {
+      "ip": 795407168, 
+      "id": {
+        "@type": "pub.ed25519", 
+        "key": "Vvn+avL8iumbGD1ZSWebtpbICtquT6AdqgLzlrOHjxg="
+      }, 
+      "port": "53762"
+    },
+    {
+      "ip": 922327377, 
+      "id": {
+        "@type": "pub.ed25519", 
+        "key": "rlarflnvJ2YHiQyH0Zl4G3F1Mf5/qTh40rIKT7MugKI="
+      }, 
+      "port": "53762"
+    },
+  ], 
+  "validator": {
+    "@type": "validator.config.global",
+    "zero_state": {
+      "workchain": -1,
+      "shard": -9223372036854775808,
+      "seqno": 0,
+      "root_hash": "i9NJN0zCA8HviG/oTRCdNkiYf8v3DkBUw5LK0vKTvqU=",
+      "file_hash": "7iOWQX3cAFanWqEodieZaVBiTjiHfrVUMFg1We2H/LM="
     }
+  }
 }
